@@ -30,7 +30,16 @@ GURU-BOT- Simple Multi Device whatsapp bot.
     <br>
 <a href='https://replit.com/@Guru322/GURU-BOT-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
+</br>
 
+
+  <h2 align="center"> 🚩  Deploy On Codespace  🚩
+</h2>
+<h2 align="center">  <a href="https://github.com/codespaces/new"><img title="Guru on Gitub Codespace" src="https://img.shields.io/badge/DEPLOY CODESPACE-h?color=black&style=for-the-badge&logo=visualstudiocode" />
+</a>
+</h2>
+     
+   <br>
 
 #### DEPLOY TO Heroku 
 
